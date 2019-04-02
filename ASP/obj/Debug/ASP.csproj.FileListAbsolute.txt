@@ -1,0 +1,75 @@
+c:\users\grizz\documents\visual studio 2015\Projects\ASP\ASP\bin\Debug\ASP.exe.config
+c:\users\grizz\documents\visual studio 2015\Projects\ASP\ASP\bin\Debug\ASP.exe
+c:\users\grizz\documents\visual studio 2015\Projects\ASP\ASP\bin\Debug\ASP.pdb
+c:\users\grizz\documents\visual studio 2015\Projects\ASP\ASP\obj\Debug\ASP.csprojResolveAssemblyReference.cache
+c:\users\grizz\documents\visual studio 2015\Projects\ASP\ASP\obj\Debug\ASP.Form1.resources
+c:\users\grizz\documents\visual studio 2015\Projects\ASP\ASP\obj\Debug\ASP.Properties.Resources.resources
+c:\users\grizz\documents\visual studio 2015\Projects\ASP\ASP\obj\Debug\ASP.csproj.GenerateResource.Cache
+c:\users\grizz\documents\visual studio 2015\Projects\ASP\ASP\obj\Debug\ASP.exe
+c:\users\grizz\documents\visual studio 2015\Projects\ASP\ASP\obj\Debug\ASP.pdb
+C:\Users\grizz\documents\visual studio 2015\Projects\ASP\ASP\bin\Debug\Interop.WMPLib.dll
+C:\Users\grizz\documents\visual studio 2015\Projects\ASP\ASP\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\grizz\documents\visual studio 2015\Projects\ASP\ASP\obj\Debug\Interop.WMPLib.dll
+C:\Users\grizz\documents\visual studio 2015\Projects\ASP\ASP\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\grizz\documents\visual studio 2015\Projects\ASP\ASP\obj\Debug\ASP.csproj.ResolveComReference.cache
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\ASP.exe.config
+D:\OneDrive\OS&SP\ASP\ASP\obj\Debug\Interop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP\ASP\obj\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP\ASP\obj\Debug\ASP.csproj.ResolveComReference.cache
+D:\OneDrive\OS&SP\ASP\ASP\obj\Debug\ASP.exe
+D:\OneDrive\OS&SP\ASP\ASP\obj\Debug\ASP.pdb
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\ASP.exe
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\ASP.pdb
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\Interop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP\ASP\obj\Debug\ASP.csprojResolveAssemblyReference.cache
+D:\OneDrive\OS&SP\ASP\ASP\obj\Debug\ASP.Properties.Resources.resources
+D:\OneDrive\OS&SP\ASP\ASP\obj\Debug\ASP.csproj.GenerateResource.Cache
+D:\OneDrive\OS&SP\ASP - Server\ASP\bin\Debug\ASP.exe.config
+D:\OneDrive\OS&SP\ASP - Server\ASP\obj\Debug\Interop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP - Server\ASP\obj\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP - Server\ASP\obj\Debug\ASP.csproj.ResolveComReference.cache
+D:\OneDrive\OS&SP\ASP - Server\ASP\obj\Debug\ASP.exe
+D:\OneDrive\OS&SP\ASP - Server\ASP\obj\Debug\ASP.pdb
+D:\OneDrive\OS&SP\ASP - Server\ASP\bin\Debug\ASP.exe
+D:\OneDrive\OS&SP\ASP - Server\ASP\bin\Debug\ASP.pdb
+D:\OneDrive\OS&SP\ASP - Server\ASP\bin\Debug\Interop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP - Server\ASP\bin\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP - Server\ASP\obj\Debug\ASP.csprojResolveAssemblyReference.cache
+D:\OneDrive\OS&SP\ASP - Server\ASP\obj\Debug\ASP.Properties.Resources.resources
+D:\OneDrive\OS&SP\ASP - Server\ASP\obj\Debug\ASP.csproj.GenerateResource.Cache
+D:\OneDrive\OS&SP\ASP - Server\ASP\obj\Debug\ASP.ASP.resources
+D:\OneDrive\OS&SP\ASP - Server\ASP\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\OneDrive\OS&SP\ASP - Server\ASP\bin\Debug\taglib-sharp.dll
+D:\OneDrive\OS&SP\ASP - Server\ASP\bin\Debug\policy.2.0.taglib-sharp.config
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\ASP.exe.config
+D:\OneDrive\OS&SP\ASP(2)\ASP\obj\Debug\Interop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP(2)\ASP\obj\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP(2)\ASP\obj\Debug\ASP.csproj.ResolveComReference.cache
+D:\OneDrive\OS&SP\ASP(2)\ASP\obj\Debug\ASP.exe
+D:\OneDrive\OS&SP\ASP(2)\ASP\obj\Debug\ASP.pdb
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\ASP.exe
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\ASP.pdb
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\taglib-sharp.dll
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\policy.2.0.taglib-sharp.config
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\Interop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\OS&SP\ASP(2)\ASP\obj\Debug\ASP.csprojResolveAssemblyReference.cache
+D:\OneDrive\OS&SP\ASP(2)\ASP\obj\Debug\ASP.ASP.resources
+D:\OneDrive\OS&SP\ASP(2)\ASP\obj\Debug\ASP.Properties.Resources.resources
+D:\OneDrive\OS&SP\ASP(2)\ASP\obj\Debug\ASP.csproj.GenerateResource.Cache
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\NAudio.dll
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\NAudio.Lame.dll
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\NAudio.xml
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\CSCore.dll
+D:\OneDrive\OS&SP\ASP(2)\ASP\bin\Debug\CSCore.xml
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\CSCore.dll
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\NAudio.dll
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\NAudio.Lame.dll
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\taglib-sharp.dll
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\CSCore.xml
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\NAudio.xml
+D:\OneDrive\OS&SP\ASP\ASP\bin\Debug\policy.2.0.taglib-sharp.config
+D:\OneDrive\OS&SP\ASP\ASP\obj\Debug\ASP.ASP.resources
